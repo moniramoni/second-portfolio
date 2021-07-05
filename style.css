@@ -42,3 +42,8 @@ a{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.second-section-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
