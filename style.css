@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.h1-style{
+   color: #ffa500;
+}
+h2{
+    font-size: 18px;
+}
+p{
+    color: #696969;
+    padding-bottom: 15px;
+}
+a{
+    background-image: linear-gradient(45deg, #ff9e78, #ff6549);  
+    padding: 10px 40px; 
+    text-decoration: none; 
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    border-radius: 5px;
+}
