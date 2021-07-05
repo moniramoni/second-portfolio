@@ -47,3 +47,31 @@ a{
     background-repeat: no-repeat;
     background-position: right;
 }
+.container-flex{
+    display: flex;
+    padding: 10px 10px;
+    margin: 50px;
+    
+}
+.h2{
+    font-size: 32px;
+}
+.h3{
+    color: #ffa500;
+}
+.box-shadow{
+    box-shadow: 10px 10px 50px rgba(150, 165, 231, 0.432);
+    border-radius: 10px;
+    margin: 30px 30px 30px 30px;    
+    padding: 50px 40px;
+}
+#border-1{
+    border-image: linear-gradient(#fb6c59,#ffcd1a);
+    border-left: 5px solid;
+    border-image-slice: 1;
+}
+#border-2{
+    border-image: linear-gradient(#ff2077,#5a5fdd);
+    border-left: 5px solid;
+    border-image-slice: 1;
+}
